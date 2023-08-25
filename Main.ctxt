@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=map
+comment2.target=void\ printMap(char[][])
+comment2.text=\r\n\ Prints\ game\ map\r\n\ @param\ Receives\ the\ game\ map\ as\ a\ bidimensional\ array\r\n\ @return\ Doesn`t\ return\ any\ values,\ just\ prints\ the\ game\ map\r\n
+comment3.params=
+comment3.target=void\ printTutorial()
+comment4.params=in\ map
+comment4.target=boolean\ checkPlace(int,\ char[][])
+comment5.params=in
+comment5.target=int[]\ placeConverter(int)
+comment6.params=map
+comment6.target=java.util.ArrayList\ findPlayer(char[][])
+comment7.params=gameMap\ playerStart\ lastPlay\ lastCpuPlay
+comment7.target=int[]\ cpuPlay(char[][],\ int,\ int,\ int)
+comment8.params=gameMap\ round
+comment8.target=boolean\ gameEnded(char[][],\ int)
+numComments=9
